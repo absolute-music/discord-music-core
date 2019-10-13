@@ -1,7 +1,7 @@
 {
-  "name": "discord-music-wrapper",
-  "version": "1.1.4",
-  "description": "A discord.js bot music funcitons warpper.",
+  "name": "discord-music-core",
+  "version": "1.0.0",
+  "description": "A discord.js bot music package.",
   "main": "index.js",
   "scripts": {
     "test": "node ./test/runTest.js"
@@ -12,17 +12,17 @@
   "types": "./TS/core.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ztumpie905509/discord-music-player.git"
+    "url": "git+https://github.com/Absolute-Development/discord-music-core.git"
   },
   "author": {
-    "name": "Ztumpie",
-    "email": "stumpie905509@gmail.com"
+    "name": "Absolute Development",
+    "email": "jerryacademic@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ztumpie905509/discord-music-player/issues"
+    "url": "https://github.com/Absolute-Development/discord-music-core/issues"
   },
-  "homepage": "https://github.com/Ztumpie905509/discord-music-player#readme",
+  "homepage": "https://github.com/Absolute-Development/discord-music-core#readme",
   "dependencies": {
     "@types/lodash": "^4.14.138",
     "discord.js": "^11.5.1",
