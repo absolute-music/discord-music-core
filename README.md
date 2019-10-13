@@ -1,8 +1,8 @@
 # discord-music-wrapper
 
-[![discord server](https://discordapp.com/api/guilds/328479087146303498/widget.png)](https://discord.gg/wUSvNzx) [![Build Status](https://travis-ci.org/Ztumpie905509/discord-music-wrapper.svg?branch=master)](https://travis-ci.org/Ztumpie905509/discord-music-wrapper) [![license](https://badgen.net/github/license/ztumpie905509/discord-music-wrapper)](https://github.com/Ztumpie905509/discord-music-wrapper/blob/master/LICENSE) ![Size](https://badgen.net/bundlephobia/minzip/discord-music-wrapper)
+[![discord server](https://discordapp.com/api/guilds/628371163491336192/widget.png)](https://discord.gg/tjVKTD8)
 
-[![NPM](https://nodei.co/npm/discord-music-wrapper.svg)](https://nodei.co/npm/discord-music-wrapper/)
+[![NPM](https://nodei.co/npm/discord-music-core.svg)](https://nodei.co/npm/discord-music-core/)
 
 _**This package is currently under heavy development.**_
 If you encountered any bugs or have some feature requests/questions, please open a new issue and describe it briefly.  
@@ -21,6 +21,6 @@ This package can help you with playing music in a discord.js bot.
 
 ## Links
 
-Github issues : <https://github.com/Ztumpie905509/discord-music-wrapper/issues>  
-Github pull requesets : <https://github.com/Ztumpie905509/discord-music-wrapper/pulls>  
-npm package page : <https://www.npmjs.com/package/discord-music-wrapper>  
+Github issues : <https://github.com/Absolute-Development/discord-music-core/issues>  
+Github pull requesets : <https://github.com/Absolute-Development/discord-music-core/pulls>  
+npm package page : <https://www.npmjs.com/package/discord-music-core>  
