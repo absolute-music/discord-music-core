@@ -1,6 +1,5 @@
 # discord-music-wrapper
 
-[![discord server](https://discordapp.com/api/guilds/628371163491336192/widget.png)](https://discord.gg/tjVKTD8)
 
 [![NPM](https://nodei.co/npm/discord-music-core.svg)](https://nodei.co/npm/discord-music-core/)
 
