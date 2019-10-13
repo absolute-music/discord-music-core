@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+- 11.12.0
+cache: npm
+before_install:
+- npm i -g npm@6.11.3
+install:
+- npm ci
+script:
+- npm test
+deploy:
+  provider: npm
+  email: stumpie905509@gmail.com
+  api_key:
+    secure: D56YP0wc9oy5GeMwJ1EwQOS9TAdRhGdX8Z7OflgrcFe/XCYFbWgDzFex5ww0IrpPukyKa3QXNkRerqyGBTzT/++B8th/bQbD6+XAKvI2LcFTF1w4taSnF9PizEsgfmXKnJV3Sb26XXbfCy9k/WDUVpKFUJAG5QW1+0eA7SI3Rydq8dWbJuz0zuFEqOphqtsKSm8x5XIizObIkg4pMIYDwSHwjrRAlOPDdmuiGki9gBOegWMTHJ1W5S2H1nl1YAnXJuw5+gq2x8uU8PnIKx54n+mZGCdpHc4t9jgrB6Z4Lxy+jp1K7zdSNkwzFKcXm+IkX8lf/a7WrH8BskgeExGBN81UlfsrMm3V+euVEH/xnz+tOg9a5i4UdwQ8H9rtX1FnUOq4A2PzYxnVDSMtf8hgY47taKL3q1u5gNzCKDWaqXJl3Po11wrmSigXWwL7Bgay894HpRLiT4VZ2L8zg7Mbq/Ekjdpo0usmgtd8/VRNtEcl557VtEsQUVku2J9w6QpLZCqh+e9N5N3WdGNNs4IhX9yQgnf7BzeC6LpGwlXq8A9znOQ5Y4flpVYcKf3pKQDE8uCHw59/fq4Cwo8M71I0J1XHs31H1ejCR3hXTtJM/yvixd/x+gZ0xf7Y3HOoxikZVg3s7lVyps/5HVnPP6X0lHZ2HzyJY4Etbx9hudVO+yg=
+  on:
+    repo: Ztumpie905509/discord-music-wrapper

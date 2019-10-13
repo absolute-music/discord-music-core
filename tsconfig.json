@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "listEmittedFiles": true,
+        "module": "commonJS",
+        "newLine": "CRLF",
+        "removeComments": false,
+        "outDir": "./",
+        "preserveConstEnums": true,
+        "target":"es6",
+        "declaration": true,
+        "declarationDir": "./ts"
+    },
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

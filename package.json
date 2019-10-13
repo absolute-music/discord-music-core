@@ -1,0 +1,50 @@
+{
+  "name": "discord-music-wrapper",
+  "version": "1.1.4",
+  "description": "A discord.js bot music funcitons warpper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/runTest.js"
+  },
+  "engines": {
+    "node": ">=11.12.0"
+  },
+  "types": "./TS/core.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ztumpie905509/discord-music-player.git"
+  },
+  "author": {
+    "name": "Ztumpie",
+    "email": "stumpie905509@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ztumpie905509/discord-music-player/issues"
+  },
+  "homepage": "https://github.com/Ztumpie905509/discord-music-player#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.138",
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.6.0",
+    "node-opus": "^0.3.2",
+    "simple-youtube-api": "^5.2.1",
+    "ts-node": "^8.3.0",
+    "ytdl-core": "^0.29.7"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "wrapper",
+    "discord",
+    "discord.js",
+    "YouTube"
+  ]
+}
